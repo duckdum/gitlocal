@@ -15,5 +15,3 @@ Teste Locator
     #Click Link  xpath=//*[@id="navigationFragment"]/div/table/tbody/tr/td[6]/div[2]/div[1]/ul[2]/li[1]/a
     #Sleep  3s
     Close Browser
- kkkkkkkk
- kk
